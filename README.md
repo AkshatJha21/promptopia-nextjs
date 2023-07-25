@@ -25,7 +25,7 @@ Promptopia comes packed with a variety of features to create a seamless and enjo
 - **Prompt Submission**: Users can create and submit AI prompts to the platform.
   ![Create prompts](create.png)
 - **Explore Prompts**: Users can browse and explore a diverse collection of AI prompts shared by others.
-  ![Edit prompts](edit/delete.png)
+  ![Edit prompts](edit:delete.png)
 - **Search Functionality**: Easily search for specific prompts or topics of interest.
   ![Explore prompts](home.png)
 - **User Authentication**: Securely log in and register using Next Auth with Google.
