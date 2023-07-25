@@ -2,6 +2,8 @@
 
 Welcome to Promptopia, a web application where users can share and explore AI prompts. Whether you're looking for inspiration or want to showcase your creative ideas, Promptopia is the perfect platform to connect with like-minded individuals and engage in collaborative brainstorming. This README.md file provides essential information about the application, its technologies, setup, and deployment.
 
+Link to deployed website: https://promptopia-nextjs-nine.vercel.app/
+
 ## Table of Contents
 
 - [Introduction](#promptopia---share-ai-prompts)
@@ -24,13 +26,18 @@ Promptopia comes packed with a variety of features to create a seamless and enjo
 
 - **Prompt Submission**: Users can create and submit AI prompts to the platform.
   ![Create prompts](create.png)
+  
 - **Explore Prompts**: Users can browse and explore a diverse collection of AI prompts shared by others.
-  ![Edit prompts](edit:delete.png)
+  ![Edit prompts](edit-delete.png)
+  
 - **Search Functionality**: Easily search for specific prompts or topics of interest.
   ![Explore prompts](home.png)
+  
 - **User Authentication**: Securely log in and register using Next Auth with Google.
+  
 - **User Profiles**: Users have personalized profiles to manage their submitted prompts.
   ![View profiles](profile.png)
+  
 - **Responsive Design**: The application is responsive and optimized for various devices.
 
 ## Technologies Used
